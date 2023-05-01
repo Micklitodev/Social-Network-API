@@ -1,0 +1,27 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "JS, Mongo, Mongoose ORM,  Express.js, Node.js -  Backend API of a Social Network webpage.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "devStart": "nodemon server.js",
+    "seed": "node seed/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Micklitodev/Social-Network-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Micklitodev/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/Micklitodev/Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0",
+    "nodemon": "^2.0.22"
+  }
+}
