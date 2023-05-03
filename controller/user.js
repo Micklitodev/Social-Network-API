@@ -32,7 +32,7 @@ const userController = {
         })
         .select("-__v");
 
-        console.log(specificUser)
+      console.log(specificUser);
 
       if (!specificUser) {
         res.status(404).json({ message: "try a different id." });

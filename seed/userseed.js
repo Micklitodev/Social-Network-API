@@ -8,4 +8,4 @@ const seedUsers = async () => {
   console.log(newuser);
 };
 
-module.exports = seedUsers; 
+module.exports = seedUsers;
