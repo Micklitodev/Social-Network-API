@@ -21,7 +21,7 @@
 
   ## Link
   
-  [Click Here](not/yet) to go to the video link.
+  [Click Here](https://drive.google.com/file/d/1PXoBKvEzEyNqwG7GAuR1K4bnR0PKIp1j/view) to go to the video link.
   
 
 
